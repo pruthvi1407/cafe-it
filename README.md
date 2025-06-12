@@ -44,10 +44,6 @@ cafe-it/
 ├── .gitignore
 └── README.md
 
-yaml
-Copy
-Edit
-
 
 ---
 
@@ -67,6 +63,7 @@ bun dev
 # or
 npm run dev
 
+---
 
 📌 Future Enhancements
 Authentication & Authorization
