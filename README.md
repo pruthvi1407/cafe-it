@@ -65,18 +65,25 @@ npm run dev
 
 ---
 
-📌 Future Enhancements
-Authentication & Authorization
+## 📷 Preview
 
-Admin dashboard for restaurants
+> ![CAFET Screenshot](./public/screenshot.png)  
+> *(Replace with your actual screenshot path)*
 
-Payment integration (Stripe/Razorpay)
+---
 
-Notifications (Email/SMS)
+## 📌 Future Enhancements
 
---
+- 🔐 Authentication & Authorization  
+- 🛠️ Admin dashboard for restaurants  
+- 💳 Payment integration (Stripe/Razorpay)  
+- 🔔 Notifications (Email/SMS)
 
-📬 Contact
-Pruthvi Solanki
-📧 your-email@example.com
-🔗 GitHub • LinkedIn
+---
+
+## 📬 Contact
+
+**Pruthvi Solanki**  
+📧 your-email@example.com  
+🔗 [GitHub](https://github.com/pruthvi1407) • [LinkedIn]
+
