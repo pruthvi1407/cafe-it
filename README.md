@@ -31,18 +31,20 @@ CAFET is a modern full-stack web platform built with **Vite**, **Tailwind CSS**,
 
 ## 📁 Project Structure
 
+```bash
 cafe-it/
-├── public/ # Static assets
-├── src/ # Source code (components, pages, logic)
-│ └── ...
-├── components.json # UI components reference
-├── index.html # Main HTML entry
-├── package.json # Project metadata and dependencies
-├── tailwind.config.ts # Tailwind configuration
-├── vite.config.ts # Vite configuration
-├── tsconfig*.json # TypeScript configurations
-├── .gitignore
-└── README.md
+├── public/                 # Static assets
+├── src/                    # Source code (components, pages, logic)
+│   └── ...
+├── components.json         # UI components reference
+├── index.html              # Main HTML entry
+├── package.json            # Project metadata and dependencies
+├── tailwind.config.ts      # Tailwind CSS configuration
+├── vite.config.ts          # Vite configuration
+├── tsconfig*.json          # TypeScript configuration files
+├── .gitignore              # Files to ignore in Git
+└── README.md               # Project documentation
+
 
 
 ---
